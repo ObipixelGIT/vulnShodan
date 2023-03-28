@@ -1,4 +1,4 @@
-# vulnShodan.py
+# vulnShodan
 Discover vulnerable systems and/or services on Shodan for your security footprinting/reconnaissance.
 
 ## How this script works?
