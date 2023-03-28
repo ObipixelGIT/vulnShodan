@@ -48,7 +48,7 @@ try:
 	for result in results['matches']:
 		print ('%s' % result['ip_str'])
 		#print ('=====================')
-		#print (result['data'])
+		print (result['data'])
 		print ('=====================')
 except shodan.APIError:
 	print ('Error: %s' % e)
