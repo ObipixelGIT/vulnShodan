@@ -32,11 +32,6 @@ sudo python3 vulnShodan.py
 
 ## Example script
 ```python
-# -*- coding: utf-8 -*-
-# Author : Dimitrios Zacharopoulos
-# All copyrights to Obipixel Ltd
-# 09 February 2023
-
 #/usr/bin/python3
 
 import shodan
