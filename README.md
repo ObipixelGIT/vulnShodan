@@ -1,5 +1,5 @@
 # vulnShodan
-Discover vulnerable systems and/or services on Shodan for your security footprinting/reconnaissance.
+Discover vulnerable systems and/or services on Shodan for your security footprinting/reconnaissance and OSINT requirements.
 
 ## How this script works?
 - Uses an API Key from Shodan.io and searches for vulnerable servers and/or services from the terminal.
